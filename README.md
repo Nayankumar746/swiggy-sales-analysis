@@ -9,7 +9,7 @@
 
 
 ## Analysis of data
-
+- <a href="https://github.com/Nayankumar746/swiggy-sales-analysis/blob/main/Analysis.xlsx"> Analysis</a>
 
 ## Dashboard
 
