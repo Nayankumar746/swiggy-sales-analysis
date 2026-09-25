@@ -5,6 +5,7 @@
 - Swiggy wants an overview of food delivery order performance, so the business can understand sales trends by time, location, and food type, identify top-performing cities and restaurants, and plan better delivery and marketing strategies going forward.
 
 ## Dataset used 
+- <a href="https://github.com/Nayankumar746/swiggy-sales-analysis/blob/main/Raw%20data.xlsx"> Raw data</a>
 
 
 ## Analysis of data
