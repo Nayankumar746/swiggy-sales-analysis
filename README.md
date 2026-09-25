@@ -12,8 +12,7 @@
 - <a href="https://github.com/Nayankumar746/swiggy-sales-analysis/blob/main/Analysis.xlsx"> Analysis</a>
 
 ## Dashboard
-
-
+- <a href="https://github.com/Nayankumar746/swiggy-sales-analysis/blob/main/Dasboard.xlsx"> Dashboard</a>
 
 ## Questions (KPIs)
 - What are the total sales, average rating, average order value, rating count, and total orders?
